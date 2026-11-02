@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Silambarasan G – Portfolio (React + Tailwind CSS)
 
 Same portfolio as the HTML version, rebuilt with React 18, Vite 5 and Tailwind CSS 3.
@@ -30,3 +31,6 @@ npm run preview
 - Project "Code on GitHub" buttons point to your GitHub profile. Add each repo link in `PROJECTS` inside `src/data.js` when ready.
 - The contact form opens the visitor's mail app (no server needed).
 - GitHub stats and the weather tool need an internet connection and work on the hosted site.
+=======
+# silambarasan-g-portfolio
+>>>>>>> a318c000d7cfe999dbdcdb6ef0ca6dff7df66204
